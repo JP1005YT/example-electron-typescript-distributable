@@ -1,0 +1,20 @@
+{
+    "compact": true,
+    "controlFlowFlattening": true,
+    "controlFlowFlatteningThreshold": 1,
+    "deadCodeInjection": true,
+    "deadCodeInjectionThreshold": 0.4,
+    "stringArray": true,
+    "stringArrayIndexesType": [
+      "hexadecimal-number"
+    ],
+    "stringArrayThreshold": 1,
+    "stringArrayEncoding": [
+      "base64"
+    ],
+    "rotateStringArray": true,
+    "disableConsoleOutput": true,
+    "selfDefending": true,
+    "reservedNames": []
+  }
+  
